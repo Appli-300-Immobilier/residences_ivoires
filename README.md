@@ -53,7 +53,7 @@ Accès Admin direct : `localhost:5173/admin` (après connexion)
 
 **Residences ivoires**
 * **Localisation :** Abidjan, Côte d'Ivoire
-* **Contact :** +225 0708061823
+* **Contact :** +225 074 856 174 6
 * **Email :** contact@residencesivoires.cm
 * **Social :** [Facebook](https://facebook.com) | [WhatsApp](https://wa.me/2250708061823)
 

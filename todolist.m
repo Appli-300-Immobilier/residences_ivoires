@@ -4,13 +4,9 @@
 - **Company Name:** Residences ivoires
 - **Directory:** residences_ivoires
 - **Address/Contact:** 
-  - Yopougon, Abidjan, Céte d'Ivoire
-  - Coordonnées
-  - 
-  - +225 0708061823
-  - 
-  - +225 05 12 23 51
-- **Description:** https://www.facebook.com/profile.php?id=100063785270475
+  - Abidjan, Côte d'Ivoire
+  - +225 074 856 174 6
+- **Description::** https://www.facebook.com/profile.php?id=100063785270475
 - **Social Media:** 
 - **Logo Asset:** _To be sourced/created_
 
